@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackurity01/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackurity01/resume/issues"
+  },
+  "homepage": "https://github.com/hackurity01/resume#readme",
+  "devDependencies": {
+    "html-minifier": "^4.0.0"
+  }
+}
